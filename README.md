@@ -28,8 +28,7 @@ Setup Instructions
 
 Clone the repository:
 
-git clone <repo-url>
-cd task-prioritizer-cli
+git clone cd task-prioritizer-cli
 
 Install dependencies using Pipenv:
 
@@ -91,6 +90,6 @@ Implement due dates and reminders.
 
 Introduce a graphical interface for better visualization.
 
-This project is a great tool for organizing and managing your tasks effectively. 
+This project is a great tool for organizing and managing your tasks effectively.
 
-Happy prioritizing! 
+Happy prioritizing!
